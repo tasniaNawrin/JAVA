@@ -1,0 +1,4 @@
+907,31A,Standard double,8000.0,Spacious rooms 
+905,31A,Standard double,8000.0,Spacious rooms
+908,31A,Standard double,8000.0,Spacious rooms
+908,35B,Standard double,8000.0,Spacious rooms
